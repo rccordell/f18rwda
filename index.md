@@ -3,13 +3,9 @@ layout: home
 title: Home
 landing-title: 'Reading & Writing in the Digital Age'
 description: null
-image: https://c1.staticflickr.com/5/4082/4826939037_3c18d7cc92_b.jpg
+image: 48269390373c18d7cc92b.jpg
 author: null
 ---
-
-[!\[Historical painting with kindle added]()(https://c1.staticflickr.com/5/4082/4826939037_3c18d7cc92_b.jpg)](https://flic.kr/p/8mxjNR)  
-
-*["Mrs. Duffee Seated on a Striped Sofa, Reading Her Kindle, After Mary Cassatt" by Mike Licht]()(https://flic.kr/p/8mxjNR)*
 
 # Course Description
 
@@ -29,4 +25,3 @@ By the end of this course, you will:
 4. Create, analyze, and employ data in support of your ideas;
 5. Compare typical genres of literature with new forms of interactive media and videogames;
 6. and Reflect on your own relationship to IRL and online aspects of life in the digital age.
-
