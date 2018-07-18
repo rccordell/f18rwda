@@ -4,7 +4,7 @@ layout: page
 title: Course Description and Learning Objectives
 description: null
 image: assets/images/pic11.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 
