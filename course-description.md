@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Course Description and Learning Objectives
 description: What is RWDA all about?
-image: [https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg][1]
+image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
 nav-menu: true
 ---
 
@@ -26,5 +26,3 @@ By the end of this course, you will:
 ## Prerequisites
 
 "Reading and Writing in the Digital Age" presumes no prior experience with computational methods and thus is well suited for students interested a “hands-on” introduction to the medium that underlies much of early-twenty-first-century life. The class offers all students an opportunity to develop their abilities analyzing, interpreting, and creating texts in a range of media through a blending of traditional and computational methods.
-
-[1]:	https://c2.staticflickr.com/2/1432/5151286161_f02ac67a18_z.jpg

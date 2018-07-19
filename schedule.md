@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Schedule of Readings and Assignments
 description: What will we do in RWDA?
-image: [\[https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg]][1]
+image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
 nav-menu: true
 ---
 
@@ -87,5 +87,3 @@ No class
 ## Monday, December 3
 
 ## Wednesday, December 5
-
-[1]:	https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
