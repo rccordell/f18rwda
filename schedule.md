@@ -1,7 +1,7 @@
 ---
-layout: landing
+layout: page
 title: Schedule of Readings and Assignments
-description: null
+description: What will we do in RWDA?
 image: [\[https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg]][1]
 nav-menu: true
 ---
