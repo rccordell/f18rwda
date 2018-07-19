@@ -24,7 +24,7 @@ form_email_name: _replyto # value of the "name" attribute in the "email" field
 # social settings
 500px_url:
 facebook_url:
-github_url: <https://github.com/rccordell/f18rwda/tree/gh-pages>
+github_url: https://github.com/rccordell/f18rwda/tree/gh-pages
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
