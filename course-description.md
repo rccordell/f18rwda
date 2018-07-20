@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Course Description and Learning Objectives
 description: 'What is RWDA all about?'
 image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg

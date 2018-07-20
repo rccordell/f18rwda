@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Schedule of Readings and Assignments
 description: 'What will we do in RWDA?'
 image: https://c1.staticflickr.com/1/295/32004918513\_48fc6589d4\_c.jpg
