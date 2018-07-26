@@ -4,7 +4,7 @@ title: Assignments and Grading
 landing-title: 'Assignments and Contract Grading'
 nav-menu: true
 description: "What will you do in RWDA and how will it be assessed?"
-image: https://c2.staticflickr.com/4/3221/2998392469\_70273f7253\_z.jpg
+image: https://ebooks.adelaide.edu.au/u/uzanne/octave/end/images/p231a.jpg
 ---
 
 # Assignments Overview
