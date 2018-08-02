@@ -7,6 +7,8 @@ description: 'What will we do together in RWDA, and when?'
 image: https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
 ---
 
+# Unit 1
+
 ## Wednesday, September 5
 
 ## Thursday, September 6
