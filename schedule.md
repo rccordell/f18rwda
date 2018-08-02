@@ -4,7 +4,7 @@ title: Schedule
 landing-title: 'Schedule of Readings and Assignments'
 nav-menu: true
 description: 'What will we do together in RWDA, and when?'
-image: https://c1.staticflickr.com/1/295/32004918513\_48fc6589d4\_c.jpg
+image: https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
 ---
 
 ## Wednesday, September 5
