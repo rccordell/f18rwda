@@ -30,11 +30,11 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 # Course Logistics
 
 + Meeting Days: Monday, Wednesday, Thursday 10:30-11:35
-+ Location: TBA
++ Location: Hastings Suite 102
 + Professor: [Ryan Cordell][2]
 + Cordell Email: [r.cordell@northeastern.edu][3] 
 + Cordell Office: Nightingale Hall 415
-+ Cordell Office Hours: TBD
++ Cordell Office Hours: Tuesday 10:30-11:30, Thursday 9:00-10:00am, and by appointment
 
 ---- 
 

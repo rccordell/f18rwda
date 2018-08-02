@@ -31,7 +31,7 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 ## Contract Details
 
-To complete **any** of these contracts a student must:
+To fulfill **any** of these contracts a student must:
 
 1. Come to class prepared to discuss any assigned readings, games, videos, or other media. Participate actively in class discussions, making observations and asking questions that help the class think together. 
 2. Complete a self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Tuesday, December 11.
@@ -40,31 +40,31 @@ To complete **any** of these contracts a student must:
 
 To contract for an "A" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three in-class assignments, or some combination of these two conditions, so long as no more than three in-class assignments are marked "Unsatisfactory." 
+1. Earn "Satisfactory" on all in-class assignments save two, meaning you could miss up to two classes, earn "Unsatisfactory" on up to two in-class assignments, or some combination of these conditions, so long as no more than two in-class assignments are marked "Unsatisfactory." 
 2. Take no more than one information overload day during the semester. 
 3. Create a website following all requirements of the "A Domain of Your Own" assignment. 
 4. Write at least 10 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete all writing assignments to the requirements of each and by their specified due dates. Revise each writing assignment until you and your instructor agree it is "Satisfactory." 
+5. Complete 5/5 writing assignments to the requirements of each and by their specified due dates. Revise all five writing assignment until you and your instructor agree they are "Satisfactory." 
 
 ### "B" Contract
 
 To contract for an "B" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four in-class assignments, or some combination of these two conditions, so long as no more than four in-class assignments are marked "Unsatisfactory." 
+1. Earn "Satisfactory" on all in-class assignments save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three in-class assignments, or some combination of these conditions, so long as no more than three in-class assignments are marked "Unsatisfactory." 
 2. Take no more than two information overload days during the semester. 
 3. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
 4. Write at least 8 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete all writing assignments to the requirements of each and by their specified due dates. Revise at least four of these assignments until you and your instructor agree they are "Satisfactory." 
+5. Complete 5/5 writing assignments to the requirements of each and by their specified due dates. Revise four of these assignments until you and your instructor agree they are "Satisfactory." 
 
 ### "C" Contract
 
 To contract for an "C" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save five, meaning you could miss up to five classes, earn "Unsatisfactory" on up to five in-class assignments, or some combination of these two conditions, so long as no more than five in-class assignments are marked "Unsatisfactory." 
-2. Take no more than two information overload days during the semester. 
+1. Earn "Satisfactory" on all in-class assignments save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four in-class assignments, or some combination of these conditions, so long as no more than four in-class assignments are marked "Unsatisfactory." 
+2. Take no more than three information overload days during the semester. 
 3. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
 4. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete 4/5 writing assignments to their requirements and by their specified due dates. Revise at least three of these assignments until you and your instructor agree it is "Satisfactory." 
+5. Complete 4/5 writing assignments to their requirements and by their specified due dates. Revise three of these assignments until you and your instructor agree they are "Satisfactory." 
 
 ## "D" and "F" Grades
 
@@ -72,9 +72,11 @@ I've borrowed this clause, too, from Cathy Davidson, because I cannot improve up
 
 > The professor reserves the right to award a grade of D or F to anyone who fails to meet a contractual obligation in a systematic way. A "D" grade denotes some minimal fulfilling of the contract. An "F" is absence of enough satisfactory work, as contracted, to warrant passing of the course. Both a "D" and "F" denote a breakdown of the contractual relationship implied by signing any of the contracts described above.
 
-## What About Exceptional Work?
+## What About Exceptional (or Mediocre) Work?
 
-I do reserve the right to reward exceptional work throughout the semester using the full range of Northeastern's grading scale. If you contract for a "B," for instance, and submit particularly strong pieces to fulfill that contract, I may elect to raise your contracted grade to a "B+."
+I also reserve the right to reward exceptional work throughout the semester using the full range of Northeastern's grading scale. If you contract for a "B," for instance, and submit particularly strong pieces to fulfill that contract, I may elect to raise your contracted grade to a "B+."
+
+Likewise, if you consistently submit mediocre work in fulfillment of your contract, I reserve the right to adjust your grade one half-step down (i.e. from "B" to "B-"). 
 
 ## Contract Adjustments
 
