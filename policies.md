@@ -7,20 +7,6 @@ description: "What does RWDA expect of you?"
 image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
 ---
 
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-
----- 
-
 # Shadow Syllabus
 
 Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabus][1]. There is a lot of truth in this list for your college careers and beyond. Read it and believe it.

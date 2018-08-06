@@ -21,9 +21,13 @@ image: https://ebooks.adelaide.edu.au/u/uzanne/octave/end/images/p231a.jpg
 
 # Grade Contracts
 
-In this course, you will determine the grade you receive by fulfilling a contract we will agree to on the third day of class. Your contract will detail the requirements you will meet in order to receive the grade for which you've contracted, as well as the penalties you will incur for not meeting those requirements.
+In this course, you will determine the grade you receive by fulfilling a contract you will submit for my approval on the third day of class: **Monday, September 10**. Your written contract will detail: 
 
-## Why Contract Grading? 
+1. the requirements you will meet in order to receive the grade for which you've contracted, 
+2. the penalties you will incur for not meeting those requirements,
+3. a calendar you will follow for meeting the requirements you have outlined. Many aspects of this calendar will be determined by assignment deadlines on the [course schedule][1], but your contract will take ownership of these deadlines and commit to specific due dates for the course's more flexible assignments. 
+
+## Why Contract Grading?
 
 As you no doubt know, grading can be a contentious issue in college courses, particularly in writing- and discussion-based courses, where grades can seem arbitrary and contestable. Grading in school does not much resemble the way you will be evaluated in your lives or careers, where you will define many of your own goals and be measured by how responsibly and effectively you achieve them. To quote Cathy Davidson, a professor at CUNY from whom most of my ideas about contract grading are adapted:
 
@@ -80,5 +84,7 @@ Likewise, if you consistently submit mediocre work in fulfillment of your contra
 
 ## Contract Adjustments
 
-Periodically during the semester I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you've been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade.   
+Periodically during the semester I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you've been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade.  
   
+
+[1]:	/schedule.html
