@@ -121,9 +121,9 @@ This course will rely on access to computers, specific software, and the interne
 
 ---- 
 
-# TRACE Evaluations
+# Course Evaluations
 
-Students are expected to complete a TRACE (Teacher Rating and Course Evaluation) toward the end of the semester. I will set aside some time during a class period for students to complete their TRACEs.
+Students are expected to complete a TRACE (Teacher Rating and Course Evaluation) toward the end of the semester. In addition, the English Department asks its students to complete a separate, wholistic, largely narrative course evaluation. I will set aside some time during a class period for students to complete their TRACE and English Departmental evaluations.
 
 ---- 
 
@@ -140,10 +140,6 @@ If you have any questions about what constitutes academic integrity in this clas
 # Writing Center
 
 The Northeastern University Writing Center is located in 412 Holmes Hall and in Snell Library (for current hours call 617-373-4549 or see [http://www.northeastern.edu/english/writing-center/][26]) and offers free and friendly help for any level writer, including help with reading complex texts, conceptualizing a writing project, refining your writing process (i.e., planning, researching, organization, drafting, revising, and editing), and using sources effectively. You can receive feedback face-to-face during regular hours or via email/online response. I strongly recommend that you make appointments to go over drafts of your work—including your digital work—before turning it in. Questions about the Writing Center can be directed to [neuwritingcenter@gmail.com][27].
-
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
 
 [1]:	https://sonyahuber.com/2014/08/20/shadow-syllabus/amp/
 [2]:	http://ryancordell.org

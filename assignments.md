@@ -9,6 +9,7 @@ image: https://ebooks.adelaide.edu.au/u/uzanne/octave/end/images/p231a.jpg
 
 # Assignments Overview
 
++ [Class Preparation][1]: written questions or observations about course readings or drafts of writing in progress
 + In-class Work: quizzes, group work, and written reflections to help you begin thinking about course topics prior to discussion
 + A Domain of Your Own: carve out your own corner of the net
 + Blogging: dig into course topics and ideas each week beyond what we cover in class discussions
@@ -17,6 +18,7 @@ image: https://ebooks.adelaide.edu.au/u/uzanne/octave/end/images/p231a.jpg
 	+ Essay: write a "traditional" college essay on a topic of your choice
 	+ Wikipedia: create or substantially improve a Wikipedia article
 	+ Dear (My) Data: record personal data, imagine a novel way to visualize it, and write about what the process reveals
+	+ Interactive argument: write branching web-based argument using software such as [Twine][2].  
 	+ Unessay: make an academic argument through the analytical or creative medium of your choice.
 
 # Grade Contracts
@@ -25,7 +27,7 @@ In this course, you will determine the grade you receive by fulfilling a contrac
 
 1. the requirements you will meet in order to receive the grade for which you've contracted, 
 2. the penalties you will incur for not meeting those requirements,
-3. a calendar you will follow for meeting the requirements you have outlined. Many aspects of this calendar will be determined by assignment deadlines on the [course schedule][1], but your contract will take ownership of these deadlines and commit to specific due dates for the course's more flexible assignments. 
+3. a calendar you will follow for meeting the requirements you have outlined. Many aspects of this calendar will be determined by assignment deadlines on the [course schedule][3], but your contract will take ownership of these deadlines and commit to specific due dates for the course's more flexible assignments. 
 
 ## Why Contract Grading?
 
@@ -35,10 +37,11 @@ As you no doubt know, grading can be a contentious issue in college courses, par
 
 ## Contract Details
 
-To fulfill **any** of these contracts a student must:
+To fulfill **any** grade contract a student must do the following, which should nonetheless be specified in the contract submitted for approval:
 
-1. Come to class prepared to discuss any assigned readings, games, videos, or other media. Participate actively in class discussions, making observations and asking questions that help the class think together. 
-2. Complete a self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Tuesday, December 11.
+1. Come to class prepared to discuss any assigned readings, games, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together. 
+2. Complete interim self-assessments when requested during the semester demonstrating that you are on-track to meet the requirements agreed to in your grade contract. 
+3. Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Cordell by 5pm on Tuesday, December 11.
 
 ### "A" Contract
 
@@ -46,9 +49,10 @@ To contract for an "A" in this course, you agree to:
 
 1. Earn "Satisfactory" on all in-class assignments save two, meaning you could miss up to two classes, earn "Unsatisfactory" on up to two in-class assignments, or some combination of these conditions, so long as no more than two in-class assignments are marked "Unsatisfactory." 
 2. Take no more than one information overload day during the semester. 
-3. Create a website following all requirements of the "A Domain of Your Own" assignment. 
-4. Write at least 10 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete 5/5 writing assignments to the requirements of each and by their specified due dates. Revise all five writing assignment until you and your instructor agree they are "Satisfactory." 
+3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric][4].
+4. Create a website following all requirements of the "A Domain of Your Own" assignment. 
+5. Write at least 10 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+6. Complete at least 5/6 writing assignments and revise all 5 until you and your instructor agree they are "Satisfactory." 
 
 ### "B" Contract
 
@@ -56,9 +60,10 @@ To contract for an "B" in this course, you agree to:
 
 1. Earn "Satisfactory" on all in-class assignments save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three in-class assignments, or some combination of these conditions, so long as no more than three in-class assignments are marked "Unsatisfactory." 
 2. Take no more than two information overload days during the semester. 
-3. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
-4. Write at least 8 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete 5/5 writing assignments to the requirements of each and by their specified due dates. Revise four of these assignments until you and your instructor agree they are "Satisfactory." 
+3. Fully meet expectations regarding in-class device according to the [policies outlined in the device use rubric][5].
+4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
+5. Write at least 8 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+6. Complete and revise at least 4/6 writing assignments and revise all four until you and your instructor agree they are "Satisfactory." 
 
 ### "C" Contract
 
@@ -66,9 +71,10 @@ To contract for an "C" in this course, you agree to:
 
 1. Earn "Satisfactory" on all in-class assignments save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four in-class assignments, or some combination of these conditions, so long as no more than four in-class assignments are marked "Unsatisfactory." 
 2. Take no more than three information overload days during the semester. 
-3. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
-4. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-5. Complete 4/5 writing assignments to their requirements and by their specified due dates. Revise three of these assignments until you and your instructor agree they are "Satisfactory." 
+3. Generally meet expectations regarding in-class device according to the [policies outlined in the device use rubric][6].
+4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
+5. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+6. Complete 4/6 writing assignments and revise three of these until you and your instructor agree they are "Satisfactory." 
 
 ## "D" and "F" Grades
 
@@ -80,11 +86,16 @@ I've borrowed this clause, too, from Cathy Davidson, because I cannot improve up
 
 I also reserve the right to reward exceptional work throughout the semester using the full range of Northeastern's grading scale. If you contract for a "B," for instance, and submit particularly strong pieces to fulfill that contract, I may elect to raise your contracted grade to a "B+."
 
-Likewise, if you consistently submit mediocre work in fulfillment of your contract, I reserve the right to adjust your grade one half-step down (i.e. from "B" to "B-"). 
+Likewise, if you consistently submit mediocre work in fulfillment of your contract, I reserve the right to adjust your grade one half-step down (e.g. from "A" to "A-"). 
 
 ## Contract Adjustments
 
 Periodically during the semester I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you've been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade.  
   
 
-[1]:	/schedule.html
+[1]:	/assignments/class-prep.html
+[2]:	http://twinery.org/
+[3]:	/schedule.html
+[4]:	/policies.html
+[5]:	/policies.html
+[6]:	/policies.html
