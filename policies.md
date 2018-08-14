@@ -4,7 +4,7 @@ title: Course Policies
 landing-title: 'Course Policies'
 nav-menu: true
 description: "What does RWDA expect of you?"
-image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
+image: https://c2.staticflickr.com/2/1432/5151286161_f02ac67a18_z.jpg
 ---
 
 # Shadow Syllabus
@@ -76,14 +76,15 @@ For as many absences as allotted in your grade contract, you will be exempted fr
 
 *["Overload" by Sir Mildred Pierce][10]*
 
-## "Information Overload" Day
+## "Information Overload" Days
 
-I do understand that the semester can get hectic. The reading load for this class is often challenging, and you must balance it with the work in your other classes. Most likely you will have days when you simply cannot—for whatever reason—complete the assigned reading. To that end, you may take *“information overload” (IO) days* during the semester up to the number specified for your contracted grade. On this day you will not be expected to contribute to class discussion and you will receive a pass on any in-class work. In order to take an IO day, you must follow these rules:
+I do understand that the semester can get hectic. The reading load for this class is often challenging, and you must balance it with the work in your other classes. Most likely you will have days when you simply cannot—for whatever reason—complete the assigned reading. Please do not simply skip class, compounding your stresses, when this happens. Instead, you may take *“information overload” (IO) days* during the semester up to the number specified in your grade contract. On these days you will not be expected to contribute to class discussion and you will receive a pass on class preparation. In order to take an IO day, you must follow these rules:
 
 1. You must attend class, listen attentively to any lectures or class discussions, and take part in any activities or group work not dependent on the day’s reading. **Your IO days cannot be used as additional excused absences**.
 2. You must inform me **before the beginning of class** that you are taking your IO day. You may not wait until I call on you or until you see day’s the in-class assignment. **I will deny any IO requests made during class**. To that end: take special care to be on time if you plan to request an IO day, as you won’t be allowed to request one if you arrive late.
 3. You may not extend an IO day into another class session. If, for instance, you take your IO day during our first class on a novel, you will not then be excused from discussing the book during subsequent classes.
-4. You may not take an IO day to avoid completing on a major assignment. IO days will excuse you from reading quizzes, group work, or reflections, but nothing of more serious import. If you are unsure whether an assignment is "major," the syllabus is a good guide. If a given assignment has it's own "assignment" page on the course website, it is a major assignment.
+4. You may not take an IO day to avoid completing a major assignment. IO days will excuse you from reading quizzes, group work, or reflections, but nothing of more serious import. If you are unsure whether an assignment is "major," the syllabus is a good guide. If a particular assignment has its own "assignment" page on the course website, it is a major assignment.
+5. In general you should not use IO days to avoid drafting writing before our in-class workshops. The writing demands in this class are high and the workshops are designed to help you stay on task for completing them, as well as to give you valuable feedback as you write or revise. It would strongly advise against foregoing these benefits.
 
 IO days are intended to help you manage the inevitable stresses of your individual semester. Use them wisely.
 

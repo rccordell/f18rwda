@@ -4,7 +4,7 @@ title: Schedule
 landing-title: 'Schedule of Readings and Assignments'
 nav-menu: true
 description: 'What will we do together in RWDA, and when?'
-image: https://c1.staticflickr.com/1/295/32004918513\_48fc6589d4\_c.jpg
+image: https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
 ---
 
 Annemarie Perez, "[UndocuDreamers: Public Writing and the Digital Turn][1]"
@@ -59,16 +59,16 @@ Read:
 
 + Jon Bois, ["What Football Will Look Like in the Future"][19]
 
-## Wednesday, September 12: Paper or Plastic?
+## Wednesday, September 12 : Library Information Session
+
+## Thursday, September 13: Paper or Plastic?
 
 Read:
 
 + Ferris Jabr, ["The Reading Brain in the Digital Age: The Science of Paper versus Screens"][20]
 + Maria Sachiko Cecire, "[Massively Open][21]"
 
-## Thursday, September 13: Library Information Session
-
-## Monday, September 17:
+## Monday, September 17: ????
 
 Read: 
 

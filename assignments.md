@@ -47,7 +47,7 @@ To fulfill **any** grade contract a student must do the following, which should 
 
 To contract for an "A" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save two, meaning you could miss up to two classes, earn "Unsatisfactory" on up to two in-class assignments, or some combination of these conditions, so long as no more than two in-class assignments are marked "Unsatisfactory." 
+1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save two, meaning you could miss up to two classes, earn "Unsatisfactory" on up to two class preparation submissions, or some combination of these conditions. 
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric][4].
 4. Create a website following all requirements of the "A Domain of Your Own" assignment. 
@@ -58,7 +58,7 @@ To contract for an "A" in this course, you agree to:
 
 To contract for an "B" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three in-class assignments, or some combination of these conditions, so long as no more than three in-class assignments are marked "Unsatisfactory." 
+1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three class preparation submissions, or some combination of these conditions. 
 2. Take no more than two information overload days during the semester. 
 3. Fully meet expectations regarding in-class device according to the [policies outlined in the device use rubric][5].
 4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
@@ -69,7 +69,7 @@ To contract for an "B" in this course, you agree to:
 
 To contract for an "C" in this course, you agree to:
 
-1. Earn "Satisfactory" on all in-class assignments save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four in-class assignments, or some combination of these conditions, so long as no more than four in-class assignments are marked "Unsatisfactory." 
+1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four class preparation submissions, or some combination of these conditions.  
 2. Take no more than three information overload days during the semester. 
 3. Generally meet expectations regarding in-class device according to the [policies outlined in the device use rubric][6].
 4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
