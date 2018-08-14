@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "pages" or "posts"
-tiles-count: 8
+tiles-count: 9
 
 # contact form settings
 form_url: https://formspree.io/r.cordell@northeastern.edu # endpoint URL to receive contact form submissions
