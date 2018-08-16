@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloggin
+title: Blogging
 nav-menu: false
 ---
 
