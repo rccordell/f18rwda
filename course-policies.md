@@ -31,12 +31,17 @@ The majority of our readings will be available online or through our course Lega
 ## Required Books
 
 + Louisa Hall, *Speak: A Novel*, available at the NU Bookstore or [on Amazon][4]
-+  Giorgia Lupi and Stefanie Posavec, *Dear Data*, available at the NU Bookstore or [on Amazon][5]
-+ Nnedi Okorafor, *Binti*, available at the NU Bookstore or [on Amazon][6]
++ Nnedi Okorafor, *Binti*, available at the NU Bookstore or [on Amazon][5]
 
 ## Required Videogame
 
-+ The Fullbright Company, [*Gone Home*][7] (also available DRM-free for Mac, Windows, or Linux through [Good Old Games][8])
++ The Fullbright Company, [*Gone Home*][6] (also available DRM-free for Mac, Windows, or Linux through [Good Old Games][7])
+
+## Recommended Book
+
+This book will be on reserve in Snell Library, but if you want to ensure access to it prior to class you should purchase it (because other students might be borrowing it when you come to read it). 
+
++  Giorgia Lupi and Stefanie Posavec, *Dear Data*, available at the NU Bookstore or [on Amazon][8]
 
 ---- 
  
@@ -154,10 +159,10 @@ The Northeastern University Writing Center is located in 412 Holmes Hall and in 
 [2]:	http://ryancordell.org
 [3]:	mailto:r.cordell@northeastern.edu
 [4]:	https://amzn.to/2MPetw5
-[5]:	https://amzn.to/2Mg9po0
-[6]:	https://amzn.to/2KUrMJV
-[7]:	https://gonehome.game/
-[8]:	https://www.gog.com/game/gone_home
+[5]:	https://amzn.to/2KUrMJV
+[6]:	https://gonehome.game/
+[7]:	https://www.gog.com/game/gone_home
+[8]:	https://amzn.to/2Mg9po0
 [9]:	mailto:r.cordell@northeastern.edu
 [10]:	mailto:r.cordell@northeastern.edu
 [11]:	https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087
