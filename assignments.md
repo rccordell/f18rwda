@@ -50,7 +50,7 @@ To contract for an "A" in this course, you agree to:
 1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save two, meaning you could miss up to two classes, earn "Unsatisfactory" on up to two class preparation submissions, or some combination of these conditions. 
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric][4].
-4. Create a website following all requirements of the "A Domain of Your Own" assignment. 
+4. Create a website following option 1 or 2 in the "A Domain of Your Own" assignment (and ideally option 1). 
 5. Write at least 10 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
 6. Complete at least 5/6 writing assignments and revise all 5 until you and your instructor agree they are "Satisfactory." 
 
@@ -61,7 +61,7 @@ To contract for an "B" in this course, you agree to:
 1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save three, meaning you could miss up to three classes, earn "Unsatisfactory" on up to three class preparation submissions, or some combination of these conditions. 
 2. Take no more than two information overload days during the semester. 
 3. Fully meet expectations regarding in-class device according to the [policies outlined in the device use rubric][5].
-4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
+4. Create a website following option 1 or 2 in the "A Domain of Your Own" assignment.
 5. Write at least 8 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
 6. Complete and revise at least 4/6 writing assignments and revise all four until you and your instructor agree they are "Satisfactory." 
 
@@ -72,7 +72,7 @@ To contract for an "C" in this course, you agree to:
 1. Earn "Satisfactory" on all class preparation assignments (reading responses and writing-in-progress drafts) save four, meaning you could miss up to four classes, earn "Unsatisfactory" on up to four class preparation submissions, or some combination of these conditions.  
 2. Take no more than three information overload days during the semester. 
 3. Generally meet expectations regarding in-class device according to the [policies outlined in the device use rubric][6].
-4. Create a website following most requirements of the "A Domain of Your Own" assignment, though you might opt to use an "out of the box" website solution.
+4. Create a website following option 1, 2, or 3 in the "A Domain of Your Own" assignment.
 5. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
 6. Complete 4/6 writing assignments and revise three of these until you and your instructor agree they are "Satisfactory." 
 

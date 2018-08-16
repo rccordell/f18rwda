@@ -18,9 +18,10 @@ In order to help you attend closely to our course texts and prepare for each cla
 
 1. Get beyond basic questions or observations of fact and instead work toward questions or observations of significance. 
 2. Demonstrate close thought about the themes, style, arguments and other elements of our texts, as well as about the relationships among them. 
-3. Genuinely open toward discussion and debate during class (i.e. no leading the witness, your honor). 
+3. Emerge from (and refer to) specific ideas, pages, quotations, scenes, &c. from our assigned texts rather than broad or generic concepts.
+4. Genuinely open toward discussion and debate during class (i.e. no leading the witness, your honor). 
 
-Reading responses will be deemed "Unsatisfactory" when they indicate lack of preparation, and will have consequences as outlined in your grading contract. 
+Reading responses will be deemed "Unsatisfactory" when they indicate lack of preparation or inattentive reading, and will have consequences as outlined in your grading contract. 
 
 # Drafts of Writing-in-Progress
 
