@@ -112,9 +112,9 @@ I have also added some pictures of some elements of physical unessays students h
 [16]:	https://damoren.wordpress.com/
 
 [image-1]:	https://c1.staticflickr.com/9/8036/8038688165_6b49967e21_c.jpg
-[image-2]:	/images/unessays/IMG_4445.jpg "Bookwheel"
-[image-3]:	/images/unessays/IMG_4504.jpg "Code page"
-[image-4]:	/images/unessays/IMG_4638.jpg "Altered Book"
-[image-5]:	/images/unessays/IMG_4543.jpg "Punchard and Weaving"
-[image-6]:	/images/unessays/IMG_4541.jpg "Lovelace Letter"
-[image-7]:	/images/unessays/IMG_4642.jpg "NYC Map"
+[image-2]:	/assets/images/unessays/IMG_4445.jpg "Bookwheel"
+[image-3]:	/assets/images/unessays/IMG_4504.jpg "Code page"
+[image-4]:	/assets/images/unessays/IMG_4638.jpg "Altered Book"
+[image-5]:	/assets/images/unessays/IMG_4543.jpg "Punchard and Weaving"
+[image-6]:	/assets/images/unessays/IMG_4541.jpg "Lovelace Letter"
+[image-7]:	/assets/images/unessays/IMG_4642.jpg "NYC Map"
