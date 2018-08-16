@@ -30,21 +30,10 @@ So: the internet. It’s kind of a thing, and it doesn’t appear to be going aw
 
 ## Option 1: Jekyll and Github Pages
 
-MORE MORE MORE
+We will explore Markdown, Jekyll, and Github Pages in class during our first week or so together. Recently flat HTML platforms [like Jekyll][3] have been getting lots of buzz: they load quickly and don't have all the overhead of a database-driven platform like Wordpress. Once the system is set up they're remarkably easy to use, but the setup is more complicated than WP. 
 
-Maybe you've built a website before. Maybe Wordpress is old hat for you. There are lots of other ways to build a website. Recently flat HTML platforms [like Jekyll]()(https://jekyllrb.com/) have been getting lots of buzz: they load quick and don't have all the overhead of a database-driven platform like Wordpress. Once the system is set up they're remarkably easy to use, but the setup is more complicated than WP. If you'd like to challenge yourself in this assignment, consider building a Jekyll site, [perhaps hosted through Github]()(https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/). If you'd like to go this route, come chat with me and we'll lay out the options and necessities.
-
-[supported Jekyll themes for GitHub pages][5]
-
-Barry Clark, [Build A Blog With Jekyll And GitHub Pages][6]
-
-Consider [Prose.io][7] as an editor for your blog
-
+We will largely follow Barry Clark's tutorial, [Build A Blog With Jekyll And GitHub Pages][4], though some details have changed since 2014. If you want to prepare for this option ahead of class, you might peruse the [supported Jekyll themes for GitHub Pages][5]. There are other [Jekyll themes][6] that will work with Github Pages, but the ones on that list work best if you're not familiar with Github or Jekyll. Once your blog is setup, you can edit your Markdown locally and sync with Github, or you might consider [Prose.io][7] to create and edit blog posts directly online. 
 For additional help, see [Amanda Visconti's Jekyll/Github Pages tutorial at the Programming Historian][8]
-
-### Jekyll and Wordpress Procedures
-
- MORE MORE 
 
 ## Option 2: Wordpress
 
@@ -72,8 +61,10 @@ This option is the broadest, and so I won't outline all of the steps as precisel
 
 [1]:	/assignments.html
 [2]:	http://www.briancroxall.net/s14dh/assignments/building-your-own-website/
+[3]:	https://jekyllrb.com/
+[4]:	https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [5]:	https://pages.github.com/themes/
-[6]:	https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+[6]:	http://jekyllthemes.org/
 [7]:	http://prose.io/
 [8]:	https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 [9]:	https://www.wired.com/insights/2012/07/a-domain-of-ones-own/
