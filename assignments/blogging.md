@@ -4,16 +4,18 @@ title: Bloggin
 nav-menu: false
 ---
 
+# [\<—— Go to back to the assignments][1]
+
 # Assignment Overview
 
-+ Students will use the domains created through the [Domain of Your Own][1] to publish blog entries
++ Students will use the domains created through the [Domain of Your Own][2] to publish blog entries
 + Students will work throughout the semester developing their ideas about course themes and questions through writing
 + Weekly posts are due by Friday at 5pm, and no more than 1 per week may be published
 + Students will write as many posts as agreed in their respective grade contracts
 
 ![][image-1]
 
-*["Blogging" by Daryl Lau][2]*
+*["Blogging" by Daryl Lau][3]*
 
 # Rationale 
 
@@ -43,14 +45,15 @@ I cannot comment on every blog post, though I will occasionally interject when s
 
 # Evaluating Blog Posts
 
-Each week I will review blog posts with the following rubric in mind, adapted by Creative Commons license (CC BY 3.0) from [Mark Sample][3]. An exceptional or satisfactory post meets the requirements of your contact, while anything else may require revision.
+Each week I will review blog posts with the following rubric in mind, adapted by Creative Commons license (CC BY 3.0) from [Mark Sample][4]. An exceptional or satisfactory post meets the requirements of your contact, while anything else may require revision.
 
 | _Exceptional._ | _Satisfactory._ | _Underdeveloped._ | _Limited._ | _No Credit._ |
 | --- | --- | ---- | ---- | --- |
 | The blog post is focused and coherently integrates examples with explanations or analysis. The entry demonstrates awareness of its own limitations or implications, and it considers multiple perspectives when appropriate. The entry reflects in-depth engagement with the topic. | The blog post is reasonably focused, and explanations or analysis are mostly based on examples or other evidence. Fewer connections are made between ideas, and though new insights are offered, they are not fully developed. The entry reflects moderate engagement with the topic. | The blog post is mostly description or summary, without consideration of alternative perspectives, and few connections are made between ideas. The entry reflects passing engagement with the topic. | The blog post is unfocused, or simply rehashes previous comments, and displays no evidence of student engagement with the topic. | The blog post is missing or consists of one or two disconnected sentences.|
 
-[1]:	/assignments/domain-of-your-own
-[2]:	https://flic.kr/p/9NKZgU
-[3]:	http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
+[1]:	/assignments.html
+[2]:	/assignments/domain-of-your-own
+[3]:	https://flic.kr/p/9NKZgU
+[4]:	http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
 
 [image-1]:	https://c2.staticflickr.com/6/5103/5779995446_841402239b_z.jpg

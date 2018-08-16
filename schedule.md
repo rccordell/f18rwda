@@ -88,6 +88,12 @@ Read:
 
 + Ted Chiang, "The Truth of Fact, the Truth of Feeling" ([PDF in Leganto][14])
 
+---- 
+
+** *Window opens for drafting Wikipedia writing assignment* **
+
+---- 
+
 ## Thursday, September 27: Wikiworld
 
 Read:
@@ -210,10 +216,18 @@ Read:
 + Naomi Kritzer, ["Cat Pictures Please"][45]
 + Elyse Graham, "[The Great LOLCat Massacre][46]"
 
-## Wednesday, October 31: Don't Be Evil
+---- 
 
-+ Vlad Savov, "[Google's Selfish Ledger is an Unsettling Vision of Silicon Valley Social Engineering][47]" (watch the video in question before reading the article about it)
-+ Safiya Umoja Noble, from *Algorithms of Oppression* ([PDF in Leganto][48])
+** *Window opens for drafting Dear (My) Data writing assignment* **
+
+---- 
+
+## Wednesday, October 31: Data Visualization
+
+Read: 
+
++ Giorgia Lupi and Stefanie Posavec, [*Dear Data*]() (spend time with this book and identify 3 visualizations you find particularly interesting/compelling/infuriating for discussion in class. If you are reading the book in library reserves take a picture of the pages you want to discuss)
++ Shirley Wu, "[An Interactive Visualization of Every Line in *Hamilton*][48]"
 
 ## Thursday, November 1: Writing Workshop
 
@@ -221,17 +235,15 @@ Read:
 
 + [*The Craft of Research*][49] chapters 13-15
 
-## Monday, November 5: Data Visualization
+## Monday, November 5: Quantified Selves
 
-Read: 
++ Gary Wolf, ["The Data-Driven Life"][50]
++ Kim Brillante Knight, "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents" ([PDF in Leganto][51])
 
-+ Giorgia Lupi and Stefanie Posavec, [*Dear Data*]() (spend time with this book and identify 3 visualizations you find particularly interesting/compelling/infuriating for discussion in class. If you are reading the book in library reserves take a picture of the pages you want to discuss)
-+ Shirley Wu, "[An Interactive Visualization of Every Line in *Hamilton*][51]"
+## Wednesday, November 7: Don't Be Evil
 
-## Wednesday, November 7: Quantified Selves
-
-+ Gary Wolf, ["The Data-Driven Life"][52]
-+ Kim Brillante Knight, "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents" ([PDF in Leganto][53])
++ Vlad Savov, "[Google's Selfish Ledger is an Unsettling Vision of Silicon Valley Social Engineering][52]" (watch the video in question before reading the article about it)
++ Safiya Umoja Noble, from *Algorithms of Oppression* ([PDF in Leganto][53])
 
 ## Thursday, November 8: Data Afterlives 
 
@@ -268,6 +280,12 @@ Read:
 ---- 
 
 ## Wednesday, November 21-Sunday, November 25: Thanksgiving Holiday
+
+---- 
+
+** *Window opens for drafting Twine writing assignment* **
+
+---- 
 
 # Keyword 5: Play
 
@@ -369,12 +387,12 @@ Choose one of the following to play. You need to get far enough into the game th
 [44]:	http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet
 [45]:	http://clarkesworldmagazine.com/kritzer_01_15/
 [46]:	http://www.publicbooks.org/the-great-lolcat-massacre/
-[47]:	https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
-[48]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158970001401?auth=SAML
+[48]:	https://pudding.cool/2017/03/hamilton/
 [49]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
-[51]:	https://pudding.cool/2017/03/hamilton/
-[52]:	http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0
-[53]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331060001401?auth=SAML
+[50]:	http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0
+[51]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331060001401?auth=SAML
+[52]:	https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
+[53]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158970001401?auth=SAML
 [54]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331480001401?auth=SAML
 [55]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
 [56]:	https://gonehome.game/

@@ -4,6 +4,8 @@ title: Class Preparation
 nav-menu: false
 ---
 
+# [\<—— Go to back to the assignments][1]
+
 # Assignment Overview
 
 + Includes written questions or observations about course readings or drafts of writing-in-progress
@@ -26,3 +28,5 @@ Reading responses will be deemed "Unsatisfactory" when they indicate lack of pre
 # Drafts of Writing-in-Progress
 
 Throughout the semester you will work on a number of extended writing projects. I have set aside several class periods for in-class workshops and writing development, generally Thursdays every other week. On these days, you should come to class with a draft of your current writing project in hand, ready for review and feedback from your peers or from me. In order for these classes to be marked "Satisfactory," you simply need to verify with me that you have your draft in hand at the beginning of class. 
+
+[1]:	/assignments.html

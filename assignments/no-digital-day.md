@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Writing Assignment 1: No Digital Day
+title: No Digital Day
+subtitle: Required Writing Assignment #1
 nav-menu: false
 ---
+
+# [\<—— Go to back to the assignments][1]
 
 # Assignment Overview
 
@@ -12,11 +15,11 @@ nav-menu: false
 + Due anytime between semester's beginning and Monday, November 13
 + Must start planning ASAP!
 
-This assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" assignment for her ["Being Human in a Digital Age"][1] course at the University of Nebraska—Lincoln.
+This assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" assignment for her ["Being Human in a Digital Age"][2] course at the University of Nebraska—Lincoln.
 
 ![][image-1]
 
-*["Amish Buggy" by Ted Van Pelt][2]*
+*["Amish Buggy" by Ted Van Pelt][3]*
 
 # Rationale
 
@@ -79,7 +82,8 @@ Your job is to remain true to the spirit of this assignment. You aren’t expect
 
 This assignment depends on the honor system. I’m not interested in policing you to make sure you really did this. It’s an exercise in self-awareness and you would be cheating yourself by cheating on the assignment. If you can’t go 24 hours without a few modern conveniences, perhaps it is time to admit your cognitive dependence?
 
-[1]:	http://segonku.unl.edu/beinghuman/
-[2]:	https://flic.kr/p/rEbyxz
+[1]:	/assignments.html
+[2]:	http://segonku.unl.edu/beinghuman/
+[3]:	https://flic.kr/p/rEbyxz
 
 [image-1]:	https://c2.staticflickr.com/8/7705/16841006647_673bbd3488_c.jpg
