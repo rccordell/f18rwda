@@ -13,7 +13,7 @@
 	{% endif %}
 	{% endfor %}
 	{% for page in site.pages limit:site.tiles-count %}
-	{% unless page.nav-menu == true %}
+	{% unless page.nav-menu == false %}
 	{% if site.tiles-source == 'pages' %}
         <article>
                 <span class="image">
