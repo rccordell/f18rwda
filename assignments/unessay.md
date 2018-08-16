@@ -16,7 +16,7 @@ nav-menu: false
 
 ![][image-1]
 
-*["Buckle Up (Altered Book 2011)" by robfos]()(https://flic.kr/p/dfmnVP)*
+*["Buckle Up (Altered Book 2011)" by robfos][2]*
 
 # The Nitty-Gritty
 
@@ -92,61 +92,13 @@ Below are some fantastic digital unessays that students have submitted. These ex
 
 I have also added some pictures of some elements of physical unessays students have submitted. Most of these were accompanied by written components which I don't reproduce here, but I'm happy to talk about them. I will bring these and some other physical model unessays to class to discuss, or you can peruse them during office hours.
 
-\<div class="row"\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4445.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4445.jpg" alt="Model of Renaissance bookwheel" /\>
-\</a\>
-\<figcaption\>A working model of a Renaissance bookwheel\</figcaption\>
-\</figure\>
-\</div\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4504.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4504.jpg" alt="A page written in code" /\>
-\</a\>
-\<figcaption\>One page from a larger project about coded language and written in a code devised by the student\</figcaption\>
-\</figure\>
-\</div\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4638.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4638.jpg" alt="An altered book project" /\>
-\</a\>
-\<figcaption\>An altered book artwork about memory and preservation in \<em\>Station Eleven\</em\>\</figcaption\>
-\</figure\>
-\</div\>
-\</div\>
-   
-\<div class="row"\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4541.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4541.jpg" alt="An imagined letter from Ada Lovelace to Joseph Marie Jacquard" /\>
-\</a\>
-\<figcaption\>An imagined letter from Ada Lovelace to Joseph Marie Jaquard; part of a larger project on Lovelace\</figcaption\>
-\</figure\>
-\</div\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4543.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4543.jpg" alt="A loom punchcard and woven Ada Lovelace" /\>
-\</a\>
-\<figcaption\>A model Jacquard loom punchcard and a woven figure of Ada Lovelace partly drawn from the pattern encoded in these cards.\</figcaption\>
-\</figure\>
-\</div\>
-\<div class="small-4 columns"\>
-\<figure\>
-\<a href="/images/unessays/IMG_4642.jpg" target="_blank"\>
-\<img src="/images/unessays/IMG_4642.jpg" alt="An annotated map of New York City" /\>
-\</a\>
-\<figcaption\>An annotated map about the textuality of space and place in New York City\</figcaption\>
-\</figure\>
-\</div\>
-\</div\> 
+| | | |
+| --- | --- | ---- |
+| ![A working model of a Renaissance bookwheel.][image-2] | ![One page from a larger project about coded language and written in a code devised by the student.][image-3] | ![An altered book artwork about memory and preservation in \*Station Eleven\*][image-4] |  
+| ![A model Jacquard loom punchcard and a woven figure of Ada Lovelace partly drawn from the pattern encoded in these cards.][image-5] | ![An imagined letter from Ada Lovelace to Joseph Marie Jaquard; part of a larger project on Lovelace][image-6] | ![An annotated map about the textuality of space and place in New York City][image-7] |
 
 [1]:	/assignments.html
+[2]:	https://flic.kr/p/dfmnVP
 [6]:	http://operation-critique.tumblr.com/
 [7]:	https://textart.blog
 [8]:	https://www.dropbox.com/s/qqz0pi7ix7rphz2/mhartyUnessay1Body.java?dl=0
@@ -160,3 +112,9 @@ I have also added some pictures of some elements of physical unessays students h
 [16]:	https://damoren.wordpress.com/
 
 [image-1]:	https://c1.staticflickr.com/9/8036/8038688165_6b49967e21_c.jpg
+[image-2]:	/images/unessays/IMG_4445.jpg "Bookwheel"
+[image-3]:	/images/unessays/IMG_4504.jpg "Code page"
+[image-4]:	/images/unessays/IMG_4638.jpg "Altered Book"
+[image-5]:	/images/unessays/IMG_4543.jpg "Punchard and Weaving"
+[image-6]:	/images/unessays/IMG_4541.jpg "Lovelace Letter"
+[image-7]:	/images/unessays/IMG_4642.jpg "NYC Map"

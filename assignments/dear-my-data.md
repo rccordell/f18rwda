@@ -7,13 +7,14 @@ nav-menu: false
 
 ## [ ☚ Assignments ☚ ][1]
 
-![][image-1]
 
 # Assignment Overview
 
 + An online composition that incorporates data-driven evidence
 + Students will work individually
 + Window for assignment opens Wednesday, October 31st
+
+![][image-1]
 
 ### The Nitty-Gritty
 

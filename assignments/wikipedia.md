@@ -15,7 +15,7 @@ nav-menu: false
 
 ![][image-1] 
 
-*["Wikipedia" by cea +]()(https://flic.kr/p/dvZK9p)*
+*["Wikipedia" by cea +][2]*
 
 # The Nitty-Gritty
 
@@ -26,6 +26,7 @@ We will be working with Amanda Rust (Digital Humanities Librarian) and Evie Cord
 You will submit a link to your final article by the date specified in your grade contract. If you are improving an existing article, you should also include a link to the article's state immediately before you began your work for comparison.
 
 [1]:	/assignments.html
+[2]:	https://flic.kr/p/dvZK9p
 
 
 [image-1]:	https://c1.staticflickr.com/9/8485/8215726123_c968be36ef_z.jpg

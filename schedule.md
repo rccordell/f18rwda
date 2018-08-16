@@ -90,7 +90,7 @@ Read:
 
 ---- 
 
-** *Window opens for drafting Wikipedia writing assignment* **
+** *Window opens for drafting [Wikipedia writing assignment][15]* **
 
 ---- 
 
@@ -98,8 +98,8 @@ Read:
 
 Read:
 
-+ Joseph Reagle, [“Nazis and Norms”][15] and [“Encyclopedic Anxiety”][16]
-+ Michelle Moravec, "[The Endless Night of Wikipedia’s Notable Woman Problem][17]"
++ Joseph Reagle, [“Nazis and Norms”][16] and [“Encyclopedic Anxiety”][17]
++ Michelle Moravec, "[The Endless Night of Wikipedia’s Notable Woman Problem][18]"
 
 In-class: orientation to Wikipedia
 
@@ -107,7 +107,7 @@ In-class: orientation to Wikipedia
 
 Read:
 
-+ Annemarie Perez, "[UndocuDreamers: Public Writing and the Digital Turn][18]"
++ Annemarie Perez, "[UndocuDreamers: Public Writing and the Digital Turn][19]"
 
 In-class: Wikipedia continued
 
@@ -115,14 +115,14 @@ In-class: Wikipedia continued
 
 Read:
 
-+ [*The Craft of Research*][19] chapters 7-9
++ [*The Craft of Research*][20] chapters 7-9
 
 ## Thursday, October 4: Writing Programs
 
 Read:
 
-+ Vikram Chandra, [“The Beauty of Code”][20]
-+ Annette Vee, “Understanding Computer Programming as Literacy” ([PDF in Leganto][21])
++ Vikram Chandra, [“The Beauty of Code”][21]
++ Annette Vee, “Understanding Computer Programming as Literacy” ([PDF in Leganto][22])
 
 ## Monday, October 8: NU Observes Columbus Day
 
@@ -132,22 +132,22 @@ No class
 
 Watch:
 
-+ Jetson et al, [*Sunspring*][22]
++ Jetson et al, [*Sunspring*][23]
 
 Read:
 
-+ Samuel Woolley, Danah Boyd, Meredith Broussard, Made, ["How to Think About Bots"][23]
++ Samuel Woolley, Danah Boyd, Meredith Broussard, Made, ["How to Think About Bots"][24]
 
 Browse (choose at least 1 entry you'd like to discuss in class and get to know it):
 
-+ Posts on ["Letting Neural Networks Be Weird"][24]
-+ [Electronic Literature Collection: Bots][25]
-+ Any of the bots mentioned in [this *New Yorker* article][26] (there's some overlap from above) 
-+ Amaranth Borsuk, Jesper Juul, and Nick Montfort, ["The Deletionist"][27]
++ Posts on ["Letting Neural Networks Be Weird"][25]
++ [Electronic Literature Collection: Bots][26]
++ Any of the bots mentioned in [this *New Yorker* article][27] (there's some overlap from above) 
++ Amaranth Borsuk, Jesper Juul, and Nick Montfort, ["The Deletionist"][28]
 + Computational Poems by Nick Montfort:
-	+ ["The Purpling"][28]
-	  - ["Shivers"][29] 
-	  - ["Modern Perverbs"][30]
+	+ ["The Purpling"][29]
+	  - ["Shivers"][30] 
+	  - ["Modern Perverbs"][31]
 
 ---- 
 
@@ -167,45 +167,45 @@ Read:
 
 Read:
 
-+ Cathy Davidson, from *Now You See It* ([PDF in Leganto][31])
-+ Michael H. Goldhaber, "[The Attention Economy: The Natural Economy of the Net][32]"
-+ Barbara Fister, "[It's the Attention Economy, and It's Stupid][33]"
++ Cathy Davidson, from *Now You See It* ([PDF in Leganto][32])
++ Michael H. Goldhaber, "[The Attention Economy: The Natural Economy of the Net][33]"
++ Barbara Fister, "[It's the Attention Economy, and It's Stupid][34]"
 
 ## Wednesday, October 17: Internet Famous
 
 Read: 
 
-+ Susanna Paasonen, "[Fickle focus: Distraction, affect and the production of value in social media][34]"
-+ Abby Rabinowitz, ["The Meme as Meme"][35]
-+ Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"][36] (make sure to read each of the sections in the table of contents at the top)
++ Susanna Paasonen, "[Fickle focus: Distraction, affect and the production of value in social media][35]"
++ Abby Rabinowitz, ["The Meme as Meme"][36]
++ Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"][37] (make sure to read each of the sections in the table of contents at the top)
 
 ## Thursday, October 18: Writing Workshop
 
 Read:
 
-+ [*The Craft of Research*][37] chapters 10-11
++ [*The Craft of Research*][38] chapters 10-11
 
 ## Monday, October 22: It's Pronounced 'Gif'
 
 Read:
 
-+ Kate M. Miltner and Tim Highfield, ["Never Gonna GIF You Up: Analyzing the Cultural Significance of the Animated GIF"][38]
-+ Lauren M. Jackson, ["We Need to Talk About Digital Blackface in GIFs"][39]
++ Kate M. Miltner and Tim Highfield, ["Never Gonna GIF You Up: Analyzing the Cultural Significance of the Animated GIF"][39]
++ Lauren M. Jackson, ["We Need to Talk About Digital Blackface in GIFs"][40]
 
 ## Wednesday, October 24: Work work work work work
 
 Read:
 
-+ Melissa Gregg, "[The Productivity Obsession][40]"
-+ Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"][41]
++ Melissa Gregg, "[The Productivity Obsession][41]"
++ Ian Bogost, ["Hyperemployment, or the Exhausting Work of the Technology User"][42]
 
 ## Thursday, October 25 : \#Unplug
 
 Read:
 
-+ Jason Farman, "[The Forgotten Kaleidoscope Craze in Victorian England][42]"
-+ Bianca Bosker, "[The Binge Breaker][43]"
-+ Baratunde Thurston, ["\#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"][44] 
++ Jason Farman, "[The Forgotten Kaleidoscope Craze in Victorian England][43]"
++ Bianca Bosker, "[The Binge Breaker][44]"
++ Baratunde Thurston, ["\#Unplug: Baratunde Thurston Left The Internet For 25 Days, And You Should Too"][45] 
 
 # Keyword 4: Data
 
@@ -213,12 +213,12 @@ Read:
 
 Read:
 
-+ Naomi Kritzer, ["Cat Pictures Please"][45]
-+ Elyse Graham, "[The Great LOLCat Massacre][46]"
++ Naomi Kritzer, ["Cat Pictures Please"][46]
++ Elyse Graham, "[The Great LOLCat Massacre][47]"
 
 ---- 
 
-** *Window opens for drafting Dear (My) Data writing assignment* **
+** *Window opens for drafting [Dear (My) Data writing assignment][48]* **
 
 ---- 
 
@@ -227,23 +227,23 @@ Read:
 Read: 
 
 + Giorgia Lupi and Stefanie Posavec, [*Dear Data*]() (spend time with this book and identify 3 visualizations you find particularly interesting/compelling/infuriating for discussion in class. If you are reading the book in library reserves take a picture of the pages you want to discuss)
-+ Shirley Wu, "[An Interactive Visualization of Every Line in *Hamilton*][48]"
++ Shirley Wu, "[An Interactive Visualization of Every Line in *Hamilton*][50]"
 
 ## Thursday, November 1: Writing Workshop
 
 Read:
 
-+ [*The Craft of Research*][49] chapters 13-15
++ [*The Craft of Research*][51] chapters 13-15
 
 ## Monday, November 5: Quantified Selves
 
-+ Gary Wolf, ["The Data-Driven Life"][50]
-+ Kim Brillante Knight, "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents" ([PDF in Leganto][51])
++ Gary Wolf, ["The Data-Driven Life"][52]
++ Kim Brillante Knight, "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents" ([PDF in Leganto][53])
 
 ## Wednesday, November 7: Don't Be Evil
 
-+ Vlad Savov, "[Google's Selfish Ledger is an Unsettling Vision of Silicon Valley Social Engineering][52]" (watch the video in question before reading the article about it)
-+ Safiya Umoja Noble, from *Algorithms of Oppression* ([PDF in Leganto][53])
++ Vlad Savov, "[Google's Selfish Ledger is an Unsettling Vision of Silicon Valley Social Engineering][54]" (watch the video in question before reading the article about it)
++ Safiya Umoja Noble, from *Algorithms of Oppression* ([PDF in Leganto][55])
 
 ## Thursday, November 8: Data Afterlives 
 
@@ -259,13 +259,13 @@ No class
 
 Read:
 
-+ Ted Chiang, "The Lifecycle of Software Objects" ([PDF in Leganto][54])
++ Ted Chiang, "The Lifecycle of Software Objects" ([PDF in Leganto][56])
 
 ## Thursday, November 15: Writing workshop
 
 Read:
 
-+ [*The Craft of Research*][55] chapters 16-17
++ [*The Craft of Research*][57] chapters 16-17
 
 ---- 
 
@@ -283,7 +283,7 @@ Read:
 
 ---- 
 
-** *Window opens for drafting Twine writing assignment* **
+** *Window opens for drafting [Interactive Twine Essay writing assignment][58]* **
 
 ---- 
 
@@ -293,7 +293,7 @@ Read:
 
 Play:
 
-+ The Fullbright Company, [*Gone Home*][56]
++ The Fullbright Company, [*Gone Home*][59]
 
 In-class: introduction to Twine
 
@@ -302,22 +302,22 @@ In-class: introduction to Twine
 Read: 
 
 + Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, "The Hegemony of Play"(PDF)
-+ Elizabeth Losh, ["#GamerGate 101"][57]
++ Elizabeth Losh, ["#GamerGate 101"][60]
 
 We'll play (some of) these in class:
 
-+ merritt k, [*Lim*][58]
-+ Molleindustria, [*Unmanned*][59]
-+ GOP Arcade, [*Thoughts and Prayers*][60]
-+ Jordan Magnuson and Kevin MacLeod, [*Loneliness*][61]
-+ Anna Anthropy, [*Queers in Love at the End of the World*][62]
-+ Porpentine, [*Howling Dogs*][63]
-+ ——, [*With Those We Love Alive*][64]
-+ McKinney, [*Spent*][65]
-+ Financial Times, [*The Uber Game*][66]
-+ Zoe Quinn, Patrick Lindsey, and Isaac Schankler, [*Depression Quest*][67]
-+ Star C. Foster and Daniel Ravipinto, [*Slouching toward Bedlam*][68]
-+ Jason Nelson, [*i made this. you play this. we are enemies*][69]
++ merritt k, [*Lim*][61]
++ Molleindustria, [*Unmanned*][62]
++ GOP Arcade, [*Thoughts and Prayers*][63]
++ Jordan Magnuson and Kevin MacLeod, [*Loneliness*][64]
++ Anna Anthropy, [*Queers in Love at the End of the World*][65]
++ Porpentine, [*Howling Dogs*][66]
++ ——, [*With Those We Love Alive*][67]
++ McKinney, [*Spent*][68]
++ Financial Times, [*The Uber Game*][69]
++ Zoe Quinn, Patrick Lindsey, and Isaac Schankler, [*Depression Quest*][70]
++ Star C. Foster and Daniel Ravipinto, [*Slouching toward Bedlam*][71]
++ Jason Nelson, [*i made this. you play this. we are enemies*][72]
 
 In-class: Twine continued
 
@@ -327,17 +327,17 @@ In-class: Twine continued
 
 Choose one of the following to play. You need to get far enough into the game that you can talk about it in detail during class, so start well in advance of this session:
 
-+ [*Braid*][70]
-+ [*A Dark Room*][71] (the app provides a fuller narrative)
-+ [Depression Quest][72]
-+ [*Papers, Please*][73]
-+ [*Passage*][74]
-+ [*Save the Date*][75]
-+ [*The Stanley Parable*][76]
-+ [*The Walking Dead*][77]
-+ [*Thomas Was Alone*][78]
-+ [*To the Moon*][79]
-+ [*What Remains of Edith Finch*][80]
++ [*Braid*][73]
++ [*A Dark Room*][74] (the app provides a fuller narrative)
++ [Depression Quest][75]
++ [*Papers, Please*][76]
++ [*Passage*][77]
++ [*Save the Date*][78]
++ [*The Stanley Parable*][79]
++ [*The Walking Dead*][80]
++ [*Thomas Was Alone*][81]
++ [*To the Moon*][82]
++ [*What Remains of Edith Finch*][83]
 
 ## Wednesday, December 5: Open
 
@@ -355,68 +355,71 @@ Choose one of the following to play. You need to get far enough into the game th
 [12]:	https://www.sbnation.com/a/17776-football/
 [13]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
 [14]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612329860001401?auth=SAML
-[15]:	http://reagle.org/joseph/2010/gfc/chapter-1.html
-[16]:	http://reagle.org/joseph/2010/gfc/chapter-7.html
-[17]:	https://www.boundary2.org/2018/08/moravec/
-[18]:	https://www.boundary2.org/2018/08/perez/
-[19]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
-[20]:	https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/
-[21]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612329980001401?auth=SAML
-[22]:	http://video.arstechnica.com/watch/sunspring-sci-fi-short-film
-[23]:	https://motherboard.vice.com/en_us/article/qkzpdm/how-to-think-about-bots
-[24]:	http://aiweirdness.com/
-[25]:	http://collection.eliterature.org/3/collection-bots.html
-[26]:	http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
-[27]:	http://thedeletionist.com/
-[28]:	https://nickm.com/poems/the_purpling/index.html
-[29]:	https://nickm.com/poems/shivers.html
-[30]:	https://nickm.com/poems/perverbs.html
-[31]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158450001401?auth=SAML
-[32]:	https://people.well.com/user/mgoldh/natecnet.html
-[33]:	https://www.insidehighered.com/blogs/library-babel-fish/its-attention-economy-and-its-stupid
-[34]:	http://journals.uic.edu/ojs/index.php/fm/article/view/6949/5629
-[35]:	http://nautil.us/issue/5/fame/the-meme-as-meme
-[36]:	http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html
-[37]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
-[38]:	http://journals.sagepub.com/doi/full/10.1177/2056305117725223
-[39]:	http://www.teenvogue.com/story/digital-blackface-reaction-gifs
-[40]:	https://www.theatlantic.com/business/archive/2015/11/be-more-productive/415821/
-[41]:	http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/
-[42]:	https://www.atlasobscura.com/articles/the-forgotten-kaleidoscope-craze-in-victorian-england
-[43]:	https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/
-[44]:	http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet
-[45]:	http://clarkesworldmagazine.com/kritzer_01_15/
-[46]:	http://www.publicbooks.org/the-great-lolcat-massacre/
-[48]:	https://pudding.cool/2017/03/hamilton/
-[49]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
-[50]:	http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0
-[51]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331060001401?auth=SAML
-[52]:	https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
-[53]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158970001401?auth=SAML
-[54]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331480001401?auth=SAML
-[55]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
-[56]:	https://gonehome.game/
-[57]:	http://virtualpolitik.blogspot.com/2014/10/gamergate-101.html
-[58]:	https://a-dire-fawn.itch.io/lim
-[59]:	http://unmanned.molleindustria.org/
-[60]:	https://www.thoughtsandprayersthegame.com/
-[61]:	http://www.necessarygames.com/my-games/loneliness/flash
-[62]:	http://auntiepixelante.com/endoftheworld/
-[63]:	http://aliendovecote.com/uploads/twine/howlingdogs/howlingdogs.html#2o
-[64]:	http://slimedaughter.com/games/twine/wtwla/
-[65]:	http://playspent.org/html/
-[66]:	https://ig.ft.com/uber-game/
-[67]:	http://www.depressionquest.com/dqfinal.html
-[68]:	http://www.peccable.com/if/slouching-10/src/play.html
-[69]:	http://www.secrettechnology.com/madethis/enemy6.html
-[70]:	http://braid-game.com/
-[71]:	http://adarkroom.doublespeakgames.com/
-[72]:	http://www.depressionquest.com/
-[73]:	http://papersplea.se/
-[74]:	http://hcsoftware.sourceforge.net/passage/
-[75]:	http://paperdino.com/save-the-date/
-[76]:	http://www.stanleyparable.com/
-[77]:	http://www.telltalegames.com/walkingdead/season1/
-[78]:	http://www.mikebithellgames.com/thomaswasalone/
-[79]:	http://freebirdgames.com/to_the_moon/
-[80]:	http://www.giantsparrow.com/games/finch/
+[15]:	/assignments/wikipedia.html
+[16]:	http://reagle.org/joseph/2010/gfc/chapter-1.html
+[17]:	http://reagle.org/joseph/2010/gfc/chapter-7.html
+[18]:	https://www.boundary2.org/2018/08/moravec/
+[19]:	https://www.boundary2.org/2018/08/perez/
+[20]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
+[21]:	https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/
+[22]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612329980001401?auth=SAML
+[23]:	http://video.arstechnica.com/watch/sunspring-sci-fi-short-film
+[24]:	https://motherboard.vice.com/en_us/article/qkzpdm/how-to-think-about-bots
+[25]:	http://aiweirdness.com/
+[26]:	http://collection.eliterature.org/3/collection-bots.html
+[27]:	http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
+[28]:	http://thedeletionist.com/
+[29]:	https://nickm.com/poems/the_purpling/index.html
+[30]:	https://nickm.com/poems/shivers.html
+[31]:	https://nickm.com/poems/perverbs.html
+[32]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158450001401?auth=SAML
+[33]:	https://people.well.com/user/mgoldh/natecnet.html
+[34]:	https://www.insidehighered.com/blogs/library-babel-fish/its-attention-economy-and-its-stupid
+[35]:	http://journals.uic.edu/ojs/index.php/fm/article/view/6949/5629
+[36]:	http://nautil.us/issue/5/fame/the-meme-as-meme
+[37]:	http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html
+[38]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
+[39]:	http://journals.sagepub.com/doi/full/10.1177/2056305117725223
+[40]:	http://www.teenvogue.com/story/digital-blackface-reaction-gifs
+[41]:	https://www.theatlantic.com/business/archive/2015/11/be-more-productive/415821/
+[42]:	http://www.theatlantic.com/technology/archive/2013/11/hyperemployment-or-the-exhausting-work-of-the-technology-user/281149/
+[43]:	https://www.atlasobscura.com/articles/the-forgotten-kaleidoscope-craze-in-victorian-england
+[44]:	https://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/
+[45]:	http://www.fastcompany.com/3012521/unplug/baratunde-thurston-leaves-the-internet
+[46]:	http://clarkesworldmagazine.com/kritzer_01_15/
+[47]:	http://www.publicbooks.org/the-great-lolcat-massacre/
+[48]:	/assignments/dear-my-data.html
+[50]:	https://pudding.cool/2017/03/hamilton/
+[51]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
+[52]:	http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0
+[53]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331060001401?auth=SAML
+[54]:	https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy
+[55]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158970001401?auth=SAML
+[56]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331480001401?auth=SAML
+[57]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
+[58]:	/assignments/interactive-twine-essay.html
+[59]:	https://gonehome.game/
+[60]:	http://virtualpolitik.blogspot.com/2014/10/gamergate-101.html
+[61]:	https://a-dire-fawn.itch.io/lim
+[62]:	http://unmanned.molleindustria.org/
+[63]:	https://www.thoughtsandprayersthegame.com/
+[64]:	http://www.necessarygames.com/my-games/loneliness/flash
+[65]:	http://auntiepixelante.com/endoftheworld/
+[66]:	http://aliendovecote.com/uploads/twine/howlingdogs/howlingdogs.html#2o
+[67]:	http://slimedaughter.com/games/twine/wtwla/
+[68]:	http://playspent.org/html/
+[69]:	https://ig.ft.com/uber-game/
+[70]:	http://www.depressionquest.com/dqfinal.html
+[71]:	http://www.peccable.com/if/slouching-10/src/play.html
+[72]:	http://www.secrettechnology.com/madethis/enemy6.html
+[73]:	http://braid-game.com/
+[74]:	http://adarkroom.doublespeakgames.com/
+[75]:	http://www.depressionquest.com/
+[76]:	http://papersplea.se/
+[77]:	http://hcsoftware.sourceforge.net/passage/
+[78]:	http://paperdino.com/save-the-date/
+[79]:	http://www.stanleyparable.com/
+[80]:	http://www.telltalegames.com/walkingdead/season1/
+[81]:	http://www.mikebithellgames.com/thomaswasalone/
+[82]:	http://freebirdgames.com/to_the_moon/
+[83]:	http://www.giantsparrow.com/games/finch/
