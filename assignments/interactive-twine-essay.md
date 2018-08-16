@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Essay
+title: Interactive Twine Essay
 subtitle: Optional Writing Assignment #3
 nav-menu: false
 ---
 
-# [\<—— Go to back to the assignments][1]
+## [ ☚ Assignments ☚ ][1]
 
 # Assignment Overview
 

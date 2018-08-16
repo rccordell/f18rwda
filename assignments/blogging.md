@@ -4,7 +4,7 @@ title: Bloggin
 nav-menu: false
 ---
 
-# [\<—— Go to back to the assignments][1]
+## [ ☚ Assignments ☚ ][1]
 
 # Assignment Overview
 
