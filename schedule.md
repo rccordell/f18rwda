@@ -52,7 +52,7 @@ Read:
 Read:
 
 + Craig Mod, ["Future Reading"][10]
-+ Paul La Farge, ["The Deep Space of Digital Reading"][11]
++ N. Katherine Hayles, "How We Read: Close, Hyper, Machine" ([PDF in Leganto][11])
 
 ## Wednesday, September 19: 17776 
 
@@ -351,7 +351,7 @@ Choose one of the following to play. You need to get far enough into the game th
 [8]:	https://www.scientificamerican.com/article/reading-paper-screens/
 [9]:	https://medium.com/@mscecire/massively-open-1f705cc61e70
 [10]:	https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print
-[11]:	http://nautil.us/issue/32/space/the-deep-space-of-digital-reading
+[11]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8613544030001401?auth=SAML
 [12]:	https://www.sbnation.com/a/17776-football/
 [13]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
 [14]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612329860001401?auth=SAML
