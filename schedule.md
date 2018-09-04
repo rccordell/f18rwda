@@ -4,7 +4,7 @@ title: Schedule
 landing-title: 'Schedule of Readings and Assignments'
 nav-menu: true
 description: 'What will we do together in RWDA, and when?'
-image: https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
+image: https://c1.staticflickr.com/1/295/32004918513\_48fc6589d4\_c.jpg
 ---
 
 Most of our readings will be available freely on the web. There are a few books you must buy (as indicated in [the course policies][1]) and others available in our [class course packet  in Leganto][2]. I will show you how to use Leganto in our first session together, but in general if there's not a direct link that's where you should check.
@@ -22,14 +22,14 @@ Read:
 + Leah Price, ["You Are What You Read"][3]
 + Ruth Graham, "[Against YA][4]"
 + Hannah Natanson, "[Yes, teens are texting and using social media instead of reading books, researchers say][5]"
-+ 19th-Century Commentaries on Novel Reading:  
++ 19th-Century Commentaries on Novel Reading:
 	1. ["On Novel Reading"][6], *The Guardian; or Youth's Religious Instructor* (1820)
 	2. ["The Reading of Young Ladies"][7], *American Magazine of Useful Knowledge* (1836)
 	3. ["Devouring Books"][8], *The American Annals of Education* (1835)
 
 In-class: Introduction to Markdown for "Domain of Your Own" and blogging assignments
 
-## Monday, September 10 : Astrolabes & 
+## Monday, September 10 : Astrolabes &
 
 Read: 
 
@@ -58,7 +58,7 @@ Read:
 + N. Katherine Hayles, "How We Read: Close, Hyper, Machine" ([PDF in Leganto][12]) 
 + Craig Mod, ["Future Reading"][13]
 
-## Wednesday, September 19: 17776 
+## Wednesday, September 19: 17776
 
 **DUE: Draft of Course Grade Contract**
 
@@ -80,7 +80,7 @@ Read:
 
 Read:
 
-+ Louisa Hall, *Speak* (beginning to page X)
++ Louisa Hall, *Speak*, Prologue-Book One (pg. 1-78)
 
 ---- 
 
@@ -161,7 +161,7 @@ Browse (choose at least 1 entry you'd like to discuss in class and get to know i
 
 Read: 
 
-+ Louisa Hall, *Speak* (page X-page Y)
++ Louisa Hall, *Speak*, Book Two and Three (pg. 79-184)
 
 ---- 
 
@@ -256,7 +256,7 @@ Read:
 
 + Safiya Umoja Noble, from *Algorithms of Oppression* ([PDF in Leganto][58])
 
-## Thursday, November 8: Data Afterlives 
+## Thursday, November 8: Data Afterlives
 
 Watch:
 
@@ -286,7 +286,7 @@ Read:
 
 Read: 
 
-+ Louisa Hall, *Speak* (page Y-end)
++ Louisa Hall, *Speak*, Book Four and Five (pg. 185-314)
 
 ---- 
 
@@ -336,7 +336,7 @@ In-class: Twine continued
 
 ## Monday, December 3: Choose Your Own Adventure
 
-Choose one of the following to play. You need to get far enough into the game that you can talk about it in detail during class, so start well in advance of this session:
+Choose one of the following to play or, alternatively, pick another game to play and analyze. Either way, you need to get far enough into the game that you can talk about it in detail during class, so start well in advance of this session:
 
 + [*Braid*][76]
 + [*A Dark Room*][77] (the app provides a fuller narrative)

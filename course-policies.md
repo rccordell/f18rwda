@@ -4,7 +4,7 @@ title: Course Policies
 landing-title: 'Course Policies'
 nav-menu: true
 description: "What does RWDA expect of you?"
-image: https://c2.staticflickr.com/2/1432/5151286161_f02ac67a18_z.jpg
+image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
 ---
 
 # Shadow Syllabus
@@ -20,7 +20,7 @@ Really, all I *want* to write here can be found in Sonya Huber's [Shadow Syllabu
 + Professor: [Ryan Cordell][2]
 + Cordell Email: [r.cordell@northeastern.edu][3] 
 + Cordell Office: Nightingale Hall 415
-+ Cordell Office Hours: Tuesday 10:30-11:30, Thursday 9:00-10:00am, and by appointment
++ Cordell Office Hours: Monday 1:00-2:00pm, Thursday 9:00-10:00am, and by appointment
 
 ---- 
 
@@ -47,7 +47,7 @@ This book will be on reserve in Snell Library, but if you want to ensure access 
  
 # Communication
 
-The best way to get in touch with me is to visit during my office hours. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please visit. During the Fall 2018 semester, I will be in my office (Nightingale 415) on Tuesdays 10:30-11:30 and Thursdays from 9:00-10:00am. I’m also happy to make appointments at other times—just [email me][9] with **at least three possible meeting times** for me to choose among. I can schedule in person or virtual meetings.
+The best way to get in touch with me is to visit during my office hours. If you’re unsure about our readings, struggling with an assignment, or just want to talk, please visit. During the Fall 2018 semester, I will be in my office (Nightingale 415) on Mondays 1:00-2:00pm and Thursdays from 9:00-10:00am. I’m also happy to make appointments at other times—just [email me][9] with **at least three possible meeting times** for me to choose among. I can schedule in person or virtual meetings.
 
 The next best way to get in touch with me is by [sending me an email][10]. When you write to me: consider your tone and your audience. An email to your professor shouldn’t read the same as your emails to friends. For help, see [this guide to emailing your professors][11]. I will respond to an email within 48 hours. Often I will respond more quickly, but you should not send me an urgent email, for example, the night before an assignment is due. If for some reason I have not responded to your email within two days, please do follow up—my delay is likely inadvertent and I will welcome a reminder.
 
