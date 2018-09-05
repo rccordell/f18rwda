@@ -59,7 +59,11 @@ This experiential course requires active engagement in class activities and disc
 
 ## Participation
 
-I will not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through our in-class work, discussions, and related activities. [In-class work][13] will regularly be graded, while other contributions can influence that grade. There are many ways to participate in a college class. Just a few of the most valuable contributions are:
+I will not explicitly grade participation in this course (i.e. “participation = 20% of final grade”), but I will take account of your reading and course engagement through your [class preparation assignments][13], discussions, and in-class activities. As a reminder, all of our class grading contracts require you to: 
+
+> Come to class prepared to discuss any assigned readings, games, videos, or other media. Participate actively in class activities and discussions, making observations and asking questions that help the class think together. 
+
+There are many ways to participate in a college class. Just a few of the most valuable contributions are:
 
 1. Raising ideas from our assigned materials for class discussion, including directing our attention to specific moments you found evocative, inspiring, infuriating, or otherwise salient;
 2. Asking questions about materials or ideas you found puzzling or difficult (I cannot overstate how valuable good questions are to a thriving class, and how desperately I wish more students were courageous in asking them);
@@ -81,9 +85,9 @@ If you fail to meet these requirements, I will consider you mentally absent, tho
 
 ## Missing Class
 
-You may miss the number of classes specified in your chosen grade contract. *I make no distinction between excused and unexcused absences*, so use your allotted absences wisely. You may not miss your allotted classes early in the semester and then petition for additional excused absences afterward. When you must miss class, it is your responsibility to find out what you missed, get updates on upcoming assignments, and/or ensure that you are prepared for future classes. 
+You may miss the number of classes specified in your chosen grade contract and you need not provide an explanation. If you find yourself in extraordinary circumstances that will impact your attendance, please come talk with me during office hours. When you must miss class, it is your responsibility to find out what you missed, get updates on upcoming assignments, and/or ensure that you are prepared for future classes. 
 
-For as many absences as allotted in your grade contract, you will be exempted from any in-class assignments or quizzes missed. If you miss more classes than agreed, we may need to reevaluate your contract.
+For as many absences as allotted in your grade contract, you will be exempted from the class preparation assignment. If you miss more classes than agreed, we may need to reevaluate your contract.
 
 [![A picture of two buttons, the first labeled "Overload Relay Trip and the second labeled "Overload Relay & M.G. Set][image-1]][14]
 
@@ -113,7 +117,7 @@ This should go without saying, but let’s say it anyway: while in class, you sh
 
 In your professional lives, people will have their phones and other devices with them at their jobs, in meetings, at conferences, and so on. Adults do not have their devices taken away from them. They are expected to manage their own use. 
 
-You may have your phone and/or laptop on hand during class, but if so you should use them only for accessing our readings, class resources, or for finding outside materials pertinent to our discussions and activities. You should not use them to follow a game, message your friends, check your friends’ Tumblrs, commit (non course related) code to Github. Though it may seem unthinkable, your friends and family may actually survive three hours each week without direct updates as to your whereabouts and doings. They probably won’t call the police to report you missing. They will no doubt pine for your witty banter, but that longing will only make your 2:41pm updates all the sweeter each Monday, Wednesday, and Thursday this semester. 
+You may have your phone and/or laptop on hand during class, but if so you should use them only for accessing our readings, class resources, or for finding outside materials pertinent to our discussions and activities. You should not use them to follow a game, message your friends, check your friends’ Tumblrs, commit (non course related) code to Github. Though it may seem unthinkable, your friends and family may actually survive three hours each week without direct updates as to your whereabouts and doings. They probably won’t call the police to report you missing. They will no doubt pine for your witty banter, but that longing will only make your 11:36am updates all the sweeter each Monday, Wednesday, and Thursday this semester. 
 
 Periodically during the semester I may ask folks to put screens away. This means I want everyone—myself included—to focus attention on another aspect of class. In fact, it would be a very good idea to have a physical notebook available for classes when phones and laptops cannot be used.
 
@@ -167,7 +171,7 @@ The Northeastern University Writing Center is located in 412 Holmes Hall and in 
 [10]:	mailto:r.cordell@northeastern.edu
 [11]:	https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087
 [12]:	http://f18rwda.ryancordell.org/assignments/in-class
-[13]:	http://f18rwda.ryancordell.org/assignments/inclasswork/
+[13]:	https://f18rwda.ryancordell.org/assignments/class-prep.html
 [14]:	https://flic.kr/p/bp351N
 [15]:	https://flic.kr/p/bp351N
 [16]:	http://www.zombiebased.com/edcourage/CellPhone%20Use%20Rubric.pdf
