@@ -52,7 +52,7 @@ To contract for an "A" in this course, you agree to:
 2. Take no more than one information overload day during the semester. 
 3. Exceed expectations regarding in-class device according to the [policies outlined in the device use rubric][12].
 4. Create a website following option 1 or 2 in the "A Domain of Your Own" assignment (and ideally option 1). 
-5. Write at least 10 "Satisfactory" blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+5. Write at least 8 "Satisfactory" blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
 6. Complete at least 2 optional writing assignments and revise at least 1 of these until you and your instructor agree it is "Satisfactory." 
 
 ### "B" Contract
@@ -63,8 +63,8 @@ To contract for an "B" in this course, you agree to:
 2. Take no more than two information overload days during the semester. 
 3. Fully meet expectations regarding in-class device according to the [policies outlined in the device use rubric][13].
 4. Create a website following option 1 or 2 in the "A Domain of Your Own" assignment.
-5. Write at least 8 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
-6. Complete at least 1 optional writing assignment and revise until you and your instructor agree it is "Satisfactory."
+5. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+6. Complete at least 1 optional writing assignment and revise it until you and your instructor agree it is "Satisfactory."
 
 ### "C" Contract
 
@@ -74,7 +74,7 @@ To contract for an "C" in this course, you agree to:
 2. Take no more than three information overload days during the semester. 
 3. Generally meet expectations regarding in-class device according to the [policies outlined in the device use rubric][14].
 4. Create a website following option 1, 2, or 3 in the "A Domain of Your Own" assignment.
-5. Write at least 6 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
+5. Write at least 5 "Satisfactory" weekly blog entries over the course of the semester. As specified in the blogging assignment, you may not complete two blog posts for credit in the same week, and you cannot make up missed blog entries at the end of the semester.
 6. Complete at least 1 optional writing assignment.
 
 ## "D" and "F" Grades
@@ -91,7 +91,7 @@ Likewise, if you consistently submit mediocre work in fulfillment of your contra
 
 ## Contract Adjustments
 
-Periodically during the semester I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you've been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade. **Important Note**: In order to effectively evaluate your own progress, you must keep track of your work, including days missed, IO days taken, blogs completed, and so forth.   
+Periodically during the semester I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you've been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade. **Important Note**: In order to effectively evaluate your own progress, you must keep track of your work, including days missed, IO days taken, blogs completed, and so forth.  
   
 
 [1]:	/assignments/class-prep.html
