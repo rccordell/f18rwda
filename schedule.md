@@ -408,7 +408,7 @@ Choose one of the following to play or, alternatively, pick another game to play
 [55]:	http://www.nytimes.com/2010/05/02/magazine/02self-measurement-t.html?pagewanted=all&_r=0
 [56]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331060001401?auth=SAML
 [57]:	https://99percentinvisible.org/episode/the-age-of-the-algorithm/
-[58]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8567158970001401?auth=SAML
+[58]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8613597570001401?auth=SAML
 [59]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612331480001401?auth=SAML
 [60]:	https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8612837100001401?auth=SAML
 [61]:	/assignments/interactive-twine-essay.html
