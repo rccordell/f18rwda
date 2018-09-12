@@ -25,7 +25,7 @@ This assignment is lightly adapted from Prof. Amanda Gailey's "No Digital Day" a
 
 Human beings have interacted with illuminated screens for a portion of the species’ existence that is so small it’s hard to calculate as a percentage. If humans have existed for 200,000 years, we’ve used screens for less than 0.0005% of that time. A stricter definition of “human,” requiring symbolic thought, etc., dates the species at 50,000 years old, in which case screens still have been familiar for about 0.002% of our existence. Should we feel so cognitively dependent on them now? What does your brain do without the distraction and convenience of the screen?
 
-Sometime between the beginning of the semester and Thursday, October 25, you will pick a single 24-hour period—which must include an entire waking day—in which you will dramatically reduce your use of screen-based technology and interactive media, according to guidelines below. This activity is meant to encourage you to think about a few things:
+Sometime between the beginning of the semester and November 13, you will pick a single 24-hour period—which must include an entire waking day—in which you will dramatically reduce your use of screen-based technology and interactive media, according to guidelines below. This activity is meant to encourage you to think about a few things:
 
 + How cognitively dependent are you on screen technologies?
 + How frequently are you tempted to distract yourself with various digital technologies? What triggers prompt you to want to distract yourself? Without familiar devices, what do you do instead? What do you think about or do with your hands?
@@ -56,7 +56,7 @@ Each student may choose from the following "No Digital" scenarios, depending on 
 
 Write a 4-5 page reflection about your No Digital Day. What did you learn about yourself? Would you do this again or for a longer period of time? In a final act of irony, post the reflection to your blog.
 
-### Option A: 1992 
+### Option A: 1992
 
 Just before the web became widely available. You probably would have had a phone at home, cable TV, and a word processor. If you choose this option, the following are not allowed:
 
