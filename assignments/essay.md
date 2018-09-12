@@ -28,7 +28,6 @@ This assignment asks you to complete a typical academic essay of 5-6 pages. In t
 
 You may use whatever citation system you wish (MLA, APA, Chicago) but you must cite your sources and do so consistently.
 
-We will workshop these papers together in class on Thursday, September 21st. Your essays will be due to me by Tuesday, September 26th, and you will have a chance to revise for a better grade after I review your essays.
 
 # What to Write About
 
