@@ -16,7 +16,7 @@ If you don't yet have a [Github][3] account, you'll need to sign up for one. You
 
 ## Step 2: Find a Theme You Like and Fork It
 
-As of last year, all Jekyll themes should work with Github pages, though some require more tinkering than others. Find one you like, but make sure it's a theme that supports blogging. The easiest way to know is to see if there's a folder titled `_posts` in the repository after you fork it.  We can work during the semester to customize these themes, so it doesn't need to be perfect: just good enough. When you click on a theme name in this list you'll see its files. Most of these pages will include a link to a sample site, which will give you a sense of what your site would  look like.
+As of last year, all Jekyll themes should work with Github pages, though some require more tinkering than others. Check out [this list of supported Jekyll themes][5], sorted by how many people like them. Find one you like, but make sure it's a theme that supports blogging. The easiest way to know is to see if there's a folder titled `_posts` in the repository after you fork it.  We can work during the semester to customize these themes, so it doesn't need to be perfect: just good enough. When you click on a theme name in this list you'll see its files. Most of these pages will include a link to a sample site, which will give you a sense of what your site would  look like.
 
 Once you've found a theme you like, we will fork the repository. Don't worry if that phrase sounds like nonsense: we'll do it together and I'll explain what it means.
 
@@ -30,7 +30,7 @@ The \_config.yml file includes all the basic configurations for a Jekyll website
 
 ## Authorize Prose
 
-There are different ways to edit the files for your Github Pages account. You can simply edit files directly (I'll show you this today) and you can sync the files with your desktop and use an application on your computer (I'll show you this in the future if you like. [Prose.io][5] is a useful application for editing the files online, and that's what we'll use today and next Monday for learning how to edit your website using Markdown.
+There are different ways to edit the files for your Github Pages account. You can simply edit files directly (I'll show you this today) and you can sync the files with your desktop and use an application on your computer (I'll show you this in the future if you like. [Prose.io][6] is a useful application for editing the files online, and that's what we'll use today and next Monday for learning how to edit your website using Markdown.
 
 ## Step 6: Edit at Least One Page
 
@@ -44,8 +44,8 @@ We will work together to create one sample post, which will be much like editing
 
 ## Other Jekyll/Github Pages Resources
 
-1. Other [Jekyll themes][6] that will work with Github Pages, though they might require a bit more tinkering. 
-2. Amanda Visconti's [Jekyll/Github Pages tutorial][7] at the Programming Historian
+1. Other [Jekyll themes][7] that will work with Github Pages, though they might require a bit more tinkering. 
+2. Amanda Visconti's [Jekyll/Github Pages tutorial][8] at the Programming Historian
 
 # Writing in Markdown
 
@@ -62,7 +62,7 @@ As with any medium, of course, there are also *limitations* to writing in Markdo
 1. You have less granular control over the appearance of your text than you would in a full featured word processor. In order to ensure the flexibility and durability of Markdown, its grammar is relatively constrained. While you can indicate text should be `bold` or formatted in a `numbered list` using Markdown, for instance, you could indicate that one paragraph's font should be 2 points larger than another. 
 2. You typically have to convert Markdown files into another format before publication. This is not *quite* true on the web, where some frameworks (like [Jekyll]()(https://jekyllrb.com/), in which our class website is built) can understand Markdown directly, but usually the production stage for a Markdown document involves converting you `md` file into another format and converting its structural encoding into actual stylistic changes.
 
-For our class, writing in Markdown will help you reflect on the relationship of your texts' structure to the media of their presentation. If you follow the Github Pages option for your website, you will edit your pages and write your posts in Markdown using [Prose.io][9] or one of the desktop applications listed below.
+For our class, writing in Markdown will help you reflect on the relationship of your texts' structure to the media of their presentation. If you follow the Github Pages option for your website, you will edit your pages and write your posts in Markdown using [Prose.io][10] or one of the desktop applications listed below.
 
 ## Markdown References
 
@@ -73,7 +73,7 @@ Below I will describe the most common Markdown syntax, but for additional refere
 + This [interactive Markdown tutorial]()(http://www.markdowntutorial.com/), which will teach you the syntax in a few minutes.
 + You can also download [the Markdown version of this page]()(https://raw.githubusercontent.com/rccordell/s18tot/gh-pages/\_posts/labs/2018-01-12-Lab1-Markdown.md) if you'd like to compare what you see in your browser with the marked-up text that created it.
 
-In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, if you're using an editor such as [Prose.io][14] you will be able to preview the way your documents will look like when they're styled.
+In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, if you're using an editor such as [Prose.io][15] you will be able to preview the way your documents will look like when they're styled.
 
 ## Applications for Writing in Markdown
 
@@ -109,8 +109,9 @@ You can also create headlines of descending sizes, lists (numbered or bulleted),
 [2]:	https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 [3]:	https://github.com/
 [4]:	https://help.github.com/articles/applying-for-an-academic-research-discount/
-[5]:	https://prose.io/
-[6]:	http://jekyllthemes.org/
-[7]:	https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
-[9]:	https://prose.io/
-[14]:	https://prose.io/
+[5]:	https://github.com/topics/jekyll-theme?o=desc&s=stars
+[6]:	https://prose.io/
+[7]:	http://jekyllthemes.org/
+[8]:	https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+[10]:	https://prose.io/
+[15]:	https://prose.io/
