@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Jekyll/Github Pages Site Tutorial
+title: "Jekyll/Github Pages Site Tutorial"
 description: A screencast for student reference. 
 ---
 
