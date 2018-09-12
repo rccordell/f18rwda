@@ -68,27 +68,27 @@ For our class, writing in Markdown will help you reflect on the relationship of 
 
 Below I will describe the most common Markdown syntax, but for additional reference you can consult:
 
-+ The [Markdown Wikipedia page]()(https://en.wikipedia.org/wiki/Markdown), which includes a very handy chart of the syntax.
-+ John Gruber's [introduction to Markdown]()(https://daringfireball.net/projects/markdown/syntax). Gruber developed the standard and knows what he's talking about!
-+ This [interactive Markdown tutorial]()(http://www.markdowntutorial.com/), which will teach you the syntax in a few minutes.
-+ You can also download [the Markdown version of this page]()(https://raw.githubusercontent.com/rccordell/s18tot/gh-pages/\_posts/labs/2018-01-12-Lab1-Markdown.md) if you'd like to compare what you see in your browser with the marked-up text that created it.
++ The [Markdown Wikipedia page][11], which includes a very handy chart of the syntax.
++ John Gruber's [introduction to Markdown][12]. Gruber developed the standard and knows what he's talking about!
++ This [interactive Markdown tutorial][13], which will teach you the syntax in a few minutes.
++ You can also download [the Markdown version of this page][14] if you'd like to compare what you see in your browser with the marked-up text that created it.
 
 In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, if you're using an editor such as [Prose.io][15] you will be able to preview the way your documents will look like when they're styled.
 
 ## Applications for Writing in Markdown
 
-One advantage to this flat-text format is that you can write valid Markdown in many, many editors, including the free text editors (such as TextEdit on the Mac or Wordpad on the PC) that come with most computers. You can also write in Markdown in my favorite writing application, [Scrivener]()(https://www.literatureandlatte.com/scrivener.php). 
+One advantage to this flat-text format is that you can write valid Markdown in many, many editors, including the free text editors (such as TextEdit on the Mac or Wordpad on the PC) that come with most computers. You can also write in Markdown in my favorite writing application, [Scrivener][16]. 
 
 There are many dedicated Markdown composition applications with additional features, such as syntax highlighting or the ability to preview what your documents. Some are paid, but here are some free ones:
 
-+ [Macdown]()(http://macdown.uranusjr.com/) (Mac)
-+ [Mou]()(http://25.io/mou/) (Mac)
-+ [Markdownpad]()(http://markdownpad.com/) (Windows XP-8)
-+ [Markdown Edit]()(http://markdownedit.com/) (Windows)
-+ [Ghostwriter]()(http://wereturtle.github.io/ghostwriter/) (Windows & Linux)
-+ [Remarkable]()(https://remarkableapp.github.io/) (Linux)
-+ [Hashify]()(http://hashify.me/IyBUaXRsZQ==) (online) 
-+ a bit more complicated to get started with, but [Atom]()(https://atom.io/) is more full-featured than some of those above (Mac, Windows, Linux)
++ [Macdown][17] (Mac)
++ [Mou][18] (Mac)
++ [Markdownpad][19] (Windows XP-8)
++ [Markdown Edit][20] (Windows)
++ [Ghostwriter][21] (Windows & Linux)
++ [Remarkable][22] (Linux)
++ [Hashify][23] (online) 
++ a bit more complicated to get started with, but [Atom][24] is more full-featured than some of those above (Mac, Windows, Linux)
 
 To write your blog posts using these desktop applications, you will need to sync your Github repository, which I can show you how to do next week.
 
@@ -100,7 +100,7 @@ So, a few basics:
 2. If you want your text to be bold, then **enclose it in double asterisks**. (i.e. \*\*enclose it in double asterisks\*\*).
 3. To start a new paragraph, simply hit return twice, so that you see a single line space in between paragraphs.
 4. To start a new line without a paragraph break, add two spaces to the end of the first line and then hit return once.
-5. To create a hyperlink, enclose the [words you want linked in brackets and the link in parentheses following]()(http://s17tot.ryancordell.org/). 
+5. To create a hyperlink, enclose the [words you want linked in brackets and the link in parentheses following][25]. 
 	i.e. [words you want linked in brackets and the link in parentheses following]\(http://s18tot.ryancordell.org/\)    
 
 You can also create headlines of descending sizes, lists (numbered or bulleted), footnotes, block quotations, embedded images, and more. See the reference materials above for details on these other elements. 
@@ -114,4 +114,18 @@ You can also create headlines of descending sizes, lists (numbered or bulleted),
 [7]:	http://jekyllthemes.org/
 [8]:	https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 [10]:	https://prose.io/
+[11]:	https://en.wikipedia.org/wiki/Markdown
+[12]:	https://daringfireball.net/projects/markdown/syntax
+[13]:	http://www.markdowntutorial.com/
+[14]:	https://raw.githubusercontent.com/rccordell/s18tot/gh-pages/%5C_posts/labs/2018-01-12-Lab1-Markdown.md
 [15]:	https://prose.io/
+[16]:	https://www.literatureandlatte.com/scrivener.php
+[17]:	http://macdown.uranusjr.com/
+[18]:	http://25.io/mou/
+[19]:	http://markdownpad.com/
+[20]:	http://markdownedit.com/
+[21]:	http://wereturtle.github.io/ghostwriter/
+[22]:	https://remarkableapp.github.io/
+[23]:	http://hashify.me/IyBUaXRsZQ==
+[24]:	https://atom.io/
+[25]:	http://s17tot.ryancordell.org/
