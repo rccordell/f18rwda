@@ -2,7 +2,7 @@
 layout: post
 title: Course Description and Learning Objectives
 description: 'What is RWDA all about?'
-image: https://cdn0.vox-cdn.com/uploads/chorus_asset/file/8356989/camera3.jpg
+image: assets/images/camera3.jpg
 nav-menu: true
 ---
 

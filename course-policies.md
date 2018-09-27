@@ -4,7 +4,7 @@ title: Course Policies
 landing-title: 'Course Policies'
 nav-menu: true
 description: "What does RWDA expect of you?"
-image: https://c2.staticflickr.com/2/1432/5151286161\_f02ac67a18\_z.jpg
+image: assets/images/5151286161_f02ac67a18_z.jpg
 ---
 
 # Shadow Syllabus

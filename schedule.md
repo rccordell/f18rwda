@@ -4,7 +4,7 @@ title: Schedule
 landing-title: 'Schedule of Readings and Assignments'
 nav-menu: true
 description: 'What will we do together in RWDA, and when?'
-image: https://c1.staticflickr.com/1/295/32004918513_48fc6589d4_c.jpg
+image: assets/images/32004918513_48fc6589d4_c.jpg
 ---
 
 Most of our readings will be available freely on the web. There are a few books you must buy (as indicated in [the course policies][1]) and others available in our [class course packet  in Leganto][2]. I will show you how to use Leganto in our first session together, but in general if there's not a direct link that's where you should check.
