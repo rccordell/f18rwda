@@ -122,6 +122,11 @@ Read:
 
 + [*The Craft of Research*][23] chapters 7-9
 
+Complete:
+
++ [Wikipedia Essentials](https://dashboard.wikiedu.org/training/students/wikipedia-essentials)
++ [Adding Citations](https://dashboard.wikiedu.org/training/students/sources)
+
 In-class: Wikipedia Continued
 
 ## Thursday, October 4: Writing in Public
