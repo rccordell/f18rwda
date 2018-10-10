@@ -192,7 +192,7 @@ Read:
 
 Read:
 
-+ [*The Craft of Research*][41] chapters 10-11
++ [*The Craft of Research*][41] chapters 7-10
 
 ## Monday, October 22: It's Pronounced 'Gif'
 
