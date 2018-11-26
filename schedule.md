@@ -334,6 +334,7 @@ We'll play (some of) these in class:
 + Zoe Quinn, Patrick Lindsey, and Isaac Schankler, [*Depression Quest*][73]
 + Star C. Foster and Daniel Ravipinto, [*Slouching toward Bedlam*][74]
 + Jason Nelson, [*i made this. you play this. we are enemies*][75]
++ Molleindustria and Jesse Stiles, [*Every day the same dream*][88] 
 
 In-class: Twine continued
 
@@ -443,3 +444,4 @@ Choose one of the following to play or, alternatively, pick another game to play
 [85]:	http://freebirdgames.com/to_the_moon/
 [86]:	http://www.giantsparrow.com/games/finch/
 [87]: http://homes.lmc.gatech.edu/~cpearce3/PearcePubs/HegemonyOfPlayFINAL.pdf
+[88]: http://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html
