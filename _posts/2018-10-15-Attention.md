@@ -1,3 +1,8 @@
+---
+layout: post
+title: Attending to the Web
+---
+
 # In-class Activity: Attending to the Web
 
 The pieces we read for today share a few ideas, namely:

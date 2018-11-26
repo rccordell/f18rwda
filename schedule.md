@@ -317,7 +317,7 @@ In-class: introduction to Twine
 
 Read: 
 
-+ Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, "The Hegemony of Play"(PDF)
++ Janine Fron, Tracy Fullerton, Jacquelyn Ford Morie, and Celia Pearce, "The Hegemony of Play"([PDF][87])
 + Elizabeth Losh, ["#GamerGate 101"][63]
 
 We'll play (some of) these in class:
@@ -442,3 +442,4 @@ Choose one of the following to play or, alternatively, pick another game to play
 [84]:	http://www.mikebithellgames.com/thomaswasalone/
 [85]:	http://freebirdgames.com/to_the_moon/
 [86]:	http://www.giantsparrow.com/games/finch/
+[87]: http://homes.lmc.gatech.edu/~cpearce3/PearcePubs/HegemonyOfPlayFINAL.pdf
